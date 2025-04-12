@@ -1,4 +1,4 @@
-from game1 import story1,story2,story3
+from madlib import story1,story2,story3
 import random
 
 if __name__ == "__stories__":
